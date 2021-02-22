@@ -1,4 +1,4 @@
-# Containerized-ovs-forwarder
+# Containerized-ovs-forwarder2
 This repository builds a container image for ovs forwarder.
 Also it implement two ovs modules:
 - The containerovsdb which connect to ovs container and create bridges and vdpa ports.
